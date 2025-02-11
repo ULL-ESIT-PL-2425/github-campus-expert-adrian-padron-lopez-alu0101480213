@@ -7,16 +7,16 @@
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
-![correo de confirmacion del cuestionario](docs/correo_cuestionario.png)
+![correo de confirmacion del cuestionario](docs/cuestionario.png)
 
 ## Crear equipo con nombre correcto
 
-![equipo](docs/equipo.png)
+![equipo](docs/team.png)
 
 ## Crear un project board kanban para este repositorio
 
-![project board kanban](docs/project_board.png)
+![project board kanban](docs/project kanban.png)
 
 ## Solicitar el GitHub Backpack
 
-![github backpack](docs/backpack.png)
+![github backpack](docs/Github-Education-2.jpg)
